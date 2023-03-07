@@ -1,4 +1,9 @@
+Soma de números variáveis (no caso X e Y)
+Variáveis X e Y
+ 
 1: leia X 
 2: leia y 
-3: leia x + y
-4: soma x + y
+3: faça x + y 
+4: imprima x + y =
+
+Fim
