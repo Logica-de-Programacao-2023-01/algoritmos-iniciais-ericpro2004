@@ -1,0 +1,26 @@
+Média de números em uma lista.
+var 1,2 e 3
+Soma = 0
+Soma da lista = soma + lista (números)
+Média: Soma + lista dividido pela quantidade de elementos
+
+1- faça: solicitar uma lista com X elementos (1,2 e 3) 
+2- Para: listar e 
+somar números 
+3- SE: {1,2 e 3} 
+4- Leia: S= 0 
+5- Leia: 1 
+6- Leia 2 
+7- Leia 3 
+8- faça: 1+2+3 
+9- escreva: 6 
+10- Leia: 6 
+11- imprima: 6 
+12- Faça: 6/3 
+13- Leia 2
+14- Imprima: 2
+
+Resultado da Média: 2
+
+Fim
+
