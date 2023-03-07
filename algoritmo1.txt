@@ -1,4 +1,4 @@
 1: leia X 
 2: leia y 
-3: leita x + Y
-4: soma
+3: leia x + y
+4: soma x + y
