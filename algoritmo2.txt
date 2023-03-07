@@ -1,4 +1,12 @@
-1: leia x 
-2: leia y 
-3: leia x - y
-4: subtração x - y
+Conversão de temperatura de celsius para Fahrenheit
+situções: Celsius ou Fahrenheit
+
+1-SE: Celsius para fahrenheit
+2-faça: (C x 9/5)+32	
+
+1-SE: Fahrenheit para celsius 
+2-faça: (32F - 32) x 5/9
+
+Imprima o resultado dependendo do número e a conversão
+
+Fim
