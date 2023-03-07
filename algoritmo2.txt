@@ -1,6 +1,9 @@
 Conversão de temperatura de celsius para Fahrenheit
 situções: Celsius ou Fahrenheit
 
+Leia: número inserido
+Leia: Leia unidade
+
 1-SE: Celsius para fahrenheit
 2-faça: (C x 9/5)+32	
 
