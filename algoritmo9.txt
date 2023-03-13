@@ -1,0 +1,22 @@
+Cálculo mensal de juros compostos.
+
+Processo:
+-Verificar Variáveis na Fórmula M=C.(1+i)^t.
+-Ler número M=montante
+-Ler número C=capital
+-Ler número i=taxa
+-Ler número t=tempo
+-Fazer multiplicação a partir das variáveis e da fórmula.
+
+Exemplo:
+
+1-Leia M=X
+2-Leia C=1000
+3-Leia i=100
+4-Leia T= 1
+4-Escreva X=1000.(1+100)^1
+5-Faça X=1000.(1+100)^1
+6-Escreva X=101000
+7-Imprima 101000
+
+Fim
