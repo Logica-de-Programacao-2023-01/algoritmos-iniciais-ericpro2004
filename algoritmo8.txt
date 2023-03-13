@@ -1,0 +1,16 @@
+Cálculo da área do triângulo.
+
+Processo:
+-Verificar base e altura do triângulo e seus respectivos números.
+-Calcular área do triângulo a partir dos dados anteriores, dividindo-os por 2.
+
+1-Ler Base
+2-Ler Bissetriz (altura)
+3-Ler Número da base (8)
+4-Ler Número da Altura (6)
+5-Escreva 8x6/2
+6-Faça 8x6/2
+7-Escreva 24
+8-Imprima 24
+
+Fim
