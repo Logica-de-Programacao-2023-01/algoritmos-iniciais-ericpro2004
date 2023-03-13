@@ -1,0 +1,23 @@
+Realização da Média aritmética ponderada de notas de provas.
+
+Processo:
+-Solicitar lista de números
+-Ler números das variáveis:pesos (p1,p2,p3) e valores do dados (x1,x2,x3).
+-Realizar Mp=p1.x1+p2.x2+...+pn.xn/p1+p2+p3.
+
+Exemplo:
+1-Escreva {6,5,9}
+2-Escreva para 6:p1=2
+3-Escreva para 5:p2=3
+4-Escreva para 9:p3=4
+5-Leia 6
+6-Leia 5
+7-Leia 9
+8-Leia 2
+9-Leia 3 
+10-Leia 4
+11-Faça X=2x6+5x3+9x4/2+3+4 
+12-Escreva X=7
+13-Imprima 7
+
+Fim
