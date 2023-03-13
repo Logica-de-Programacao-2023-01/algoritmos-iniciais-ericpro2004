@@ -11,5 +11,6 @@ Processo:
 2-Leia 3
 3-se impar
 4-Escreva {3,2,1}
+5-Imprima {3,2,1}
 
 Fim
