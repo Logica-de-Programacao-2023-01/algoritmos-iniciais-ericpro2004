@@ -1,0 +1,15 @@
+Criar Sequência com seleção de números.
+
+Processo:
+-Solicitar lista com mais de um número.
+-Pedir Número na especificação da seleção. 
+-Fazer seleção do número na sequência numeral.
+-Verificar se o número é impar ou par
+-Exemplo ->{X,Y,Z} ->{Z} é impar -> {Z,Y,X}
+
+1-Escreva {1,2,3}
+2-Leia 3
+3-se impar
+4-Escreva {3,2,1}
+
+Fim
