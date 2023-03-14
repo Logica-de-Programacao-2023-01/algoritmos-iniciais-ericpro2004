@@ -2,9 +2,9 @@ Verificação de números (primo ou não).
 
 Processo:
 -Solicitar Número.
--Verificar se o número solicitado é divisivel apenas por 1 e ele mesmo.
+-Verificar se o número solicitado é divisível apenas por 1 e ele mesmo.
 
-1- Se X é divisivel apenas por 1 e ele mesmo.
+1- Se X é divisível apenas por 1 e ele mesmo.
 2- Para X ser primo.
 
 Fim
