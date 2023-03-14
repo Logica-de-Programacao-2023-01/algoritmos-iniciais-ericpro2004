@@ -1,8 +1,9 @@
 Calcular o Fatorial de um determinado número.
 
 -Escreva um número inteiro maior que 0, ou seja, X>0.
--Faça multiplicação de númerops menores que o escolhido.
+-Faça multiplicação de números menores que o escolhido.
 
+Exemplo:
 1- Escreva 5!
 2- Leia 5!
 3- Leia 5>4,3,2,1
